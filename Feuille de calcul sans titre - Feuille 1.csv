@@ -1,0 +1,52 @@
+App Name,Review Text,Category
+DrApp,App crashes when trying to book a doctor,bug/crash
+DrApp,Very slow loading and confusing interface,bad UX
+DrApp,Cannot log in even after resetting password,authentication issue
+Ministry of Public Health,App does not update information regularly,data reliability
+Ministry of Public Health,Interface is outdated and hard to navigate,bad UX
+Google Fit,Steps tracking is inaccurate,inaccurate data
+Google Fit,Battery drains quickly when app is running,performance issue
+Google Fit,Sync issues with other devices,integration issue
+Headspace,Too expensive for students,pricing
+Headspace,Content locked behind subscription,paywall frustration
+Headspace,App sometimes freezes during sessions,bug/crash
+Calm,Subscription is too expensive,pricing
+Calm,Notifications are annoying,notifications issue
+Calm,Limited free content,missing feature
+Medscape,App takes too long to load,performance issue
+Medscape,Too much information,"hard to find what I need, bad UX"
+Medscape,Frequent login issues,authentication issue
+WebMD,Symptom checker is not accurate,trust issue
+WebMD,Too many ads,ads issue
+WebMD,Interface feels outdated,bad UX
+Flo,Too many features locked behind premium,pricing
+Flo,Privacy concerns about data,trust issue
+Flo,Notifications are excessive,notifications issue
+Fitbit,Syncing issues with device,integration issue
+Fitbit,Data sometimes disappears,data reliability
+Fitbit,App crashes frequently,bug/crash
+Altibbi,Doctors do not respond quickly,service quality
+Altibbi,Paid consultation not worth it,pricing
+Altibbi,App is slow,performance issue
+Tawakkalna,Login issues frequently,authentication issue
+Tawakkalna,App crashes during use,bug/crash
+Tawakkalna,Confusing interface,bad UX
+Seha,Appointments not available,missing feature
+Seha,Slow response time,performance issue
+Seha,Hard to navigate,bad UX
+Labayh,Consultation is expensive,pricing
+Labayh,Limited doctor availability,missing feature
+Labayh,App glitches during calls,bug/crash
+Tawuniya,Insurance info not clear,information clarity
+Tawuniya,App is slow,performance issue
+Tawuniya,Difficult to submit claims,bad UX
+Dr Sulaiman Alhabib,Long waiting times,service quality
+Dr Sulaiman Alhabib,App crashes when booking,bug/crash
+Altibbi (Android),Slow performance,performance issue
+Altibbi (Android),Poor customer support,service quality
+Tawakkalna (Android),Login fails often,authentication issue
+Vezeeta,Doctors cancel appointments frequently,service reliability
+Vezeeta,Hidden fees,pricing
+Vezeeta,Search filters are not accurate,bad UX
+Calm (Android),Too many subscription prompts,pricing
+Medscape (Android),App freezes frequently,bug/crash
